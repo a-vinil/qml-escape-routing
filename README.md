@@ -1,4 +1,4 @@
-# Quantum Machine Learning Application in Escape Routing Problems - A PS 1 Project
+# Quantum Machine Learning Application in Escape Routing Problems
 
 ## Introduction
 
