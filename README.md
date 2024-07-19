@@ -1,4 +1,4 @@
-# A Supervised Hybrid Quantum Machine Learning Solution to the Emergency Escape Routing Problem
+# Quantum Machine Learning Application in Escape Routing Problems - A PS 1 Project
 
 ## Introduction
 
